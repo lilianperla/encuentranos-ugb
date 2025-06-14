@@ -1,61 +1,91 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <a href="https://ugb.edu.sv" target="_blank">
+    <img src="https://ugb.edu.sv/wp-content/uploads/2021/03/logo-ugb.png" width="400" alt="UGB Logo">
+  </a>
 </p>
 
-## About Laravel
+<p align="center">
+  <a href="https://github.com/Lailenn/Lab-2/actions"><img src="https://github.com/Lailenn/Lab-2/workflows/tests/badge.svg" alt="Build Status"></a>
+  <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/badge/Laravel-9.x-orange" alt="Laravel Version"></a>
+  <a href="https://github.com/Lailenn/Lab-2/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
+  <a href="https://github.com/Lailenn/Lab-2"><img src="https://img.shields.io/badge/Status-Final%20Release-brightgreen" alt="Project Status"></a>
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+# Encuéntrame UGB - Plataforma de Objetos Perdidos
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+**Fecha de entrega: 14/6/2025**
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## 📌 Acerca del Proyecto
 
-## Learning Laravel
+Sistema web desarrollado en Laravel para la comunidad universitaria de la UGB que permite:
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- Reportar objetos perdidos en el campus
+- Visualizar objetos reportados
+- Gestionar publicaciones propias
+- Sistema de autenticación seguro con dominio @ugb.edu.sv
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## 🛠️ Tecnologías Clave
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- **Framework**: Laravel 9
+- **Frontend**: Bootstrap 5, JavaScript
+- **Base de Datos**: MySQL
+- **Autenticación**: Laravel Sanctum
+- **Hosting**: Servidor UGB
 
-## Laravel Sponsors
+## 🚀 Funcionalidades Principales
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+```diff
++ Nuevo en la versión final:
++ • Botones de editar/eliminar condicionales
++ • Visualización del autor de publicaciones
++ • Sistema de notificaciones
++ • FAQ completo
++ • Diseño 100% responsive
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+👥 Equipo de Desarrollo
+Nombre	Matrícula	Rol
+Lilian Amaraly Perla Arias	SMSS180923	Backend Developer
+Katia Marilin Santos Avelar	SMSS011422	Frontend Lead
+Flor Guadalupe Villatoro Vasquez	SMSS125223	DB Architect
+📦 Instalación
+Clonar repositorio:
 
-## Code of Conduct
+bash
+git clone https://github.com/Lailenn/Lab-2.git
+Instalar dependencias:
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+bash
+composer install
+npm install && npm run dev
+Configurar entorno:
 
-## Security Vulnerabilities
+bash
+cp .env.example .env
+php artisan key:generate
+📄 Documentación
+Manual de Usuario
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Documentación Técnica
 
-## License
+📜 Licencia
+Este proyecto está bajo licencia MIT.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<p align="center"> <sub>Cátedra: Programación Computacional IV | Catedrático: Willian Alexis Montes Girón</sub><br> <sub>Grupo B3 - Ingeniería en Sistemas y Redes Informáticos | UGB 2025</sub> </p> ```
+Características clave:
+Portada profesional siguiendo el formato Laravel pero adaptado al proyecto
+
+Badges personalizados con el estado actual del proyecto
+
+Sección destacada de nuevas funcionalidades
+
+Instrucciones claras de instalación
+
+Enlaces a documentación
+
+Diseño responsive con centrado de elementos
+
+Información completa del equipo y contexto académico
+
