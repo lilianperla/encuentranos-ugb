@@ -1,79 +1,79 @@
-<p align="center">
-  <a href="https://ugb.edu.sv" target="_blank">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAn1BMVEUTG9b///8AANMADtVwcuEPGNYLFdbu7/syN9n39/4YH9ba2/f8/P8ACdVmaeAABdWmp+u+v/HT1PXe3/jP0PSLjebIyfO0te6ChOVrbuHCw/FVWN2GiOViZd/09P3R0vXo6PpcX967vPCwse1HStuVl+gnLdh7feOjpOt4euOPkeeZm+mEhuVBRdvq6vpMT9w7P9ojKdhRVN02OtktMtjaFVFtAAAROUlEQVR4nO2daXeqOhSGYxC0KtU6D7V1HqtW2///226AjJBgQAncrvN+OOu01ZCHhL13kp0ASoHGUwf8JTmXViMgA/6/3Su08q7Tk+VA2GKEa/i3GjCQDeeE8B3mXZmMBFcB4eCvAiLEskf48XcBEWIfEQ7/MqFTRYSGAaFt9nJ10DdKaMOBWUS4BkeThDZslzpGEZ052Bt09R5gySyivQFlc4QBoGFEYJCQAJpGNEfo1ktEHccgokHC9l8n/Pu99G9bmuAiorewDHGaILThCOL/MI8PXw0hGiD0uLYEcUkAR6Z6a/aEQd/EiIABmnogMyck9mXLB8A+oCHErAmZj+AQMaAZxKwJIfPzwyb+nVtmvj97c5MxoTMpMRrSiBx16TVzO5B5G04YIG0uhvia/fA0c0tDEPlHjj6cBgANeIsAUbQpGNEEoAmP7yGGjaaPaATQSNQG51GvgBBHZqaIjETelsztQdfAlYHR0VNO+kf4XNmOZXICw5cRQttyoS/nNF3ZwX/dPzACRg3WDGiut/KhNa5XcCBTqY+Xh/3tGvyxmXGzPp8QgQVVhz/z7XHQ73yUVPro9AfH4fQHfz4b1KcROqQngtWot1t8zhpKsKgas/ai1RtdaqQHP3HZ/UFC1hM3k/1hyXpiWlXq/eV6P/l9Xg9OR2g7uMHc7+nwOOh2Xh4Ei+ql0x0cv6YncqHUqIkIaU+sXcq91lv7nKQnpta5/dbqlVP3YA1C1hN/59v1sv9IT6zUz+m/jAzTcr2dV5P14PuE0Dq9fu0W3Vn6ntiYfS527yPsCp3T6/tj5b3Muqi815OjE7vfJYT91BXx7vkxes/DfSLGndxTVwNRow1nCS97bo9bh/JN47nhn+uD91wnvFJFZ6ruPqFT1bqa33O+Xk9WGttHbbOVyDavdMykhqWBy7jbWPef/mf5L8G/3rNqb1pDaA1C5xopu/GgBdeQECO1Fm1JjPStdVUdfwjJ+rTvhYfT7+ajXjiJuDjX68HMMHX0ZkG0CNe4TGBiLKAU7cG4Nq3nEVpkVrdahDxUu4ZrM9ILx3QIbbuQhL96tdGKS2EhCTUnI/UIP/48YeVJhM4TZqII4YsxQmzK2fWs8C/Yr39vk8vGC77lRTDF3ErjhHBRaiAx2229Br+oCDWw4GVJAtxO6yTsfoBt/xtEL+fu7kfNaJ7wLeSdEGG0BnDeEcKR+or7K6yXIvrcqCb9i0PIpcjbqKHD4vy1jLBUuihqVkRCWzoAY/nXcsKGK7dJRSRUjDAXdF1fSqiKygpIKOmigUauSFiZIbFRcOX/QmixdIzG2/GwY7Mi5BOE8CvwFD3yd/kIvniEkFrRNR7Hj8kvyq5A2Au+QUfc1/8HoXUhPDf8CRvvm6PGJkRoTfGf5eFP4QjhANd3yLuHD1/nWEIFQvEI8XfPQgAgBHYioU166eL/QWi7uAkP6goRwmGATWYUFOO/ohE6N1zfk//dUIBtCYQfFSQ6PbxXEBSN0CKJlr7ph92SoPcmT8jrY64CKBqhuyWE/odDSwRDFWE/MvgqLuE+FWGptFTN2BeNkPxU8lMvEhAqp0OLRuiccIUn3oXCz6FIeDxdLpfVlIQ0ii3Y5gmxR6feq4mfPBw4k3m6nfej870K9NuREPagg2TRpNsfqbswT7gLdSrisOtiwIKbNFATt+x7iBCX0OZuSv6E1JSQOw5fhEalDpyvL4nG/a4bJcTdQr7+aZyQrkx1fP/t0JEBTs23Af65tCWzSxbEo4uZNC6lT6vc1uQwm0hG8LM5ilJO1FqSvDU2AB7jVcYVGU9FRk8WkguJcWoXhZCOWNHDxv47JhVgjYhuwmK3G9A5DUJACFuTOdKIjK0UxtQ8IZ3zF3Wln4Vl2d/RiN8mrSyfp1EsLuVAaM0lteMPoyDmNiS6Cq8gLMo8DRD7KZY4T0btKd+Cpyb9s5xQMWGaByGA21DlwkfewEm4J/dddmE5oWpwkQshgJsxV7fxJnJxC/b4rIrPGx9XQ3HG39cAFGZWP5ADQW/c+fiodN6+LOmqCnIk63H9XDnXF+818Vgq2BrzWizXyO8oF+FyIvSmV7Caqro5yk9EFtfiKpUboTH9IwzrH6Gvf4RG9Y8wrH+Evh4mtEnWKFUz9ban4hHaHtzkq4UCmmB+4+Vc77feJx5mqvKKRYjimOtwIc/fPr99bWJzg+QqEiEK5L538Xnw59YqJgSVl1oYQgdaa500//MRJGrIohA68PtNAy/QeJXgDNxiEDpw1VUDSdS+abdjEQht+Jt8o033R/N5LAChS3Mtwg2FNxQomnept0M/d0IbzuX7mLrfZJEGVuVN3HjVaca8CS2aXRLSCDqU0IFz+c7FsYbFyZkQ/gjbeCjHuQbZQhv6r2t1Ip/x9HG6W+98CeGer+6CTjJ2fEvJESJrS0/heRda/e65xrkSCiamX4WkeWbB88UToueVzpLCKz8XqVzAz5/QhlxFzyiyJj++uMH3BEL0cdKhPyG8cNFPNx4xP0KbP+DqCC22nHHC1xAJgfVLPjByLX7iP/6MsxznS9ncfOXbsytkREHzvUKEbDHAWwGHVdaMsYi5EXIt6Nt8OMQ/1WlNwoQsNcO7CQ7nZ+IQ8yLkMmV6QYIX8fssAS9C6JANPo0gn2hIy5Av//rKiZDbSTv1r9wkteV3HYQJATwKPZkd7qZKvQS5rT2xu38R00r5ZO0oIU3cwNWF37QcZbZmLoTWilYMxyQ02Ys/811G+I5/tw+ibveHljRRxOF5ENpsJZ9s9qF2R1gnjBLSRiSZJQyxoZiNy2WVm1oZsm5Lk2yE1W4pIfGDZGM2pJnvn4VZx2e5Fl/U05HchBrfDjJCm/xyCSPFyUNU84R2k4SfLP+FfEF8t4SMkCYUsQqz6BbI+mkOGUMk54klaTmkp03F1WwZoUUSwef0s/Qhlr58wzghs6NHujpNWiFUCSkhLZz0AAvCAylyLqmd+exLLpFiPAoW6UlIutQi3LEaeysAr9ws5ExCYZqQOj7Ssb6uEG7wDxOxcDmhQ7z8CUIwHIvF7aNO0TShZG/heTCQ10FOSEt/G0TXNySZX4YJ6S4smRbB+SD04JMwITm+RDH5qGhEw4T8qDeql4532tCkShYNCSHW763ca43jT9uJZtGaJaTPUPvOoUAv5079k4Q+/c9653zvC2ToeAtX0CwhHTRBuI9tzYRqb2mDRw4SMkyIwxnky1wIDopM2ISqH2rQZZFNeLhvlNAl27b8sNlGVmW/eOzgxMpi7wZLpjR4p4fV50FI5gupObBR9a77SL11td2gm0SajBix8J4Es4S4Zj3+YnSSUP+cN3L+4op3DWzXW+go8CwJN+KH6YyosCWZvPlgBmF16h0f2FF13I/O56L1/voD6SZSvkPScVVZdImOlSHhuibkThBjUBeuRWaXxhDQw9eg/bOavJLoYPo6uXzTpFIUEJB5xFB2OHYY/KYEB1WglyEheuLWvwyS7jkTK4arK+xash3HsqjHtyxHaHYy0B+LBfVIZ2B4V2avMyL0Lrj7xsMkUuOV8HjCz+C320i8pYhL2VZasTPQ4wx944Pwfo58Qnh2hEiV1g1B0rMEQqMhbGEmkZKVhGSTYuidqGSCa4qaH65aobg8U0KvMoM5mSQNzU+TKGATDWJVhLZi5IjDvAOcLKM1yJrQuwRuLK1xrt5fxAlEYrNm0sQAA4REwnuOqLtqJCLEFxDPemyOpNfLklCeXnBs8qlp5Jk6JyIUdlz68nY3HKTXa2RIaM8H0g7TPlypD7Hoe2WSEJL3zuDaIMMJetLBystiCjMkrKLWurWkXbZzrAaQZOJGMmMdQ4htij+iR3ibtXSYUllOUOCadVyKDPdJnlI5252QDyFBm2QTbwwhnl8bNh1lxqafqGmZibxRLX7Xkt1Y3k2+kUn5cSJCHAcN4SXs9ojoc2BobIEga/IH5QOHNJJDfu8TttVGm37J3OjJG/AO1TmWkkXcGMK4w5hzIwTBFPV+LK9RN7pHTUHolXI/WzMfQhCM6l8XUkfZfbfEfEr5ygyEip7wNoLcT7kR4krOl1JH2R3x58xICJtwKm2+l8EUPQSFIQwg5Vaw8s7aMUJowaHMtHgW2R+fFYkQ+Ob1+yjxZB9lEu6ECG04lfAFXlX8QkEIgTIaaV+hhBCC6ONHI6OiEgJVRBmc2yUQwsjAgY9uC0wIglHBNmQ/Bt7ogyO0wx6w+2VFN88UlRAELq4sOMo6ah1GaJPJnED9vXwLeIEJPSFHueYWmGZNPpOdi2obRwcqjpstOKHfXbm82DO3fsgBHmN2dgVfKLcLS+h902YGs0MJmSVq1+KSZf0v7IIzW4tKiNrxi+IMcKdlq9qH+N1OHqE3hwo3neISoi+vlO+9mtypJCT5ew48FpgQuBv5inbj514dEeGNnKZMf1lAQmBdpa34c3cjFyytc8820ZN7kgDe7tfQkp1nVkjC0G4hX+FjiGSqyU6DLiYhnUyjkqYdRlSM7Est2TD0KKZ/z2pBCcOHZfU0qycRIfx4KiEe2K7SE7JNQklqJ5ODMx8Vx7lFpEeIR7VTnQ8r5PLGRsfMqESSimW5pzLpEfYfrxjdd+DpkXLIrVKk8kekR4gjyeVDhCwcVZyfq1nOLlkhWoQuXs/WfJebXA7bWCNL39YWGZnEHPIuSIuQJlkqRqqaVaPd9JEbRYfFkbRMhbQIafbBtnn/s+pCyLSGzttDlaLZgrqFaBLiysVsC9QoRHaicPJS+glvkx5h5DjkNKI54ZIEfG3RTZnadl2PkHZ+ybqnfuVI0uJDgQPZSqsd9ukSkoJPj9QOl1FLb6/oXdK/1ZqE1Jo+4jDUK6T6RZBJLNUbvaLSJGR7DCWjbl09Tki3nCYwebqEtBHvTh+p9TChS4MG/SbUJmRPYqma1hQ+Ssjme5IYPG1Cm4YkjWpKv/8goXulQVGS8bM2IXDnpHydSSSZHiPk5l1HSUrQJ+QPHr8zV60q4AFChxqZpEOcBIT8G0bq1RSM6QltuGFrHfVk309CaPNrRoNrglPkAqUltCDg1lNnCU8hTEIoIpb6I6ha+JMrFaGXr8MvKM+Sdp5EhOG129JYsXgrV2JCLx1JXEr215KTKRkh92Y/ou5QsgAvVzJCWTpAkA+QTAkJUTVfI8ss7V5N6xzSBIReSsd7NPexnMIMJyYETVdyqKWwl0YlXUJxbwxT307jZ5ITou6zkmWW8slMcmkRqlKrSp1b8h7qKQWhZ75v0nw7mpAm131CZXpcqT9J7JywUhF6VXEUufSDuRLyDqE6xbF+AGn5UhP6ps6SJ4Y23hSOMo5Qnab6+W4nPWpYUGpCEJsiLM1yUhFGM6hYOdskDleqRwhB4JNHihThL0eRiCcQ+uni0qe68VZOGDRJ9SChp7jn5ypLpmSE6pT/IEn44bqBpxACbAPj99KACKGfjarctpHetIT0HEIQ+DHFXprjb/AsCYQuvErdnoZfTaanEYK4vTSdLyhkX6JPbuWv5hSThJ+hZxKCuE1nyw2Xm3iVHtjiHRfxZDzwdEIQYxz7ZKqsJjut3Te9DxtOiZ5PCGIdnFyqJOFnKBNCQPbS3DmExpcyBHqSsiL0hHzIRO4oqeLC2CcpS0IQQCqOMEdaZI4HMicEPuRW5kI8D5L5xYEJQuB590vYuHZvmZmWkIwQeg35zY+02icjzefLEKEXC0xI4FqZPt+vq7U3di9ROwYLH63njBm0ZG/AMf2CbHLB1UupkX6FNYWcOdDL1X2WLOtN+X7RTATX4LEMrMSyMwk91YJ1cP99Ev9nOdUSeChdt/CCfUT4WLJnseWdYOG99/yhzN8iC3rJKf6b3dcmHbAx2XBeIoSlbs1cEGVIDjnaFuBAajz9W83oXFp4yuQ/TTENjBdDfroAAAAASUVORK5CYII=" width="400" alt="UGB Logo">
-  </a>
-</p>
+# ENTREGA FINAL - PROYECTO "ENCUÉNTRAME UGB"
 
-<p align="center">
-  <a href="https://github.com/Lailenn/Lab-2/actions"><img src="https://github.com/Lailenn/Lab-2/workflows/tests/badge.svg" alt="Build Status"></a>
-  <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/badge/Laravel-9.x-orange" alt="Laravel Version"></a>
-  <a href="https://github.com/Lailenn/Lab-2/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
-  <a href="https://github.com/Lailenn/Lab-2"><img src="https://img.shields.io/badge/Status-Final%20Release-brightgreen" alt="Project Status"></a>
-</p>
+**Facultad de Ciencia y Tecnología**  
+**Universidad Gerardo Barrios, San Miguel**  
+**Fecha:** 14 de junio de 2025
 
-# Encuéntrame UGB - Plataforma de Objetos Perdidos
+---
 
-**Fecha de entrega: 14/6/2025**
+## 📜 Portada Oficial
 
-## 📌 Acerca del Proyecto
+- **Cátedra:** Programación Computacional IV  
+- **Catedrático:** Willian Alexis Montes Girón  
+- **Grupo:** B3 - Ingeniería en Sistemas y Redes Informáticos
 
-Sistema web desarrollado en Laravel para la comunidad universitaria de la UGB que permite:
+### Equipo de Desarrollo:
 
-- Reportar objetos perdidos en el campus
-- Visualizar objetos reportados
-- Gestionar publicaciones propias
-- Sistema de autenticación seguro con dominio @ugb.edu.sv
+| Nombre                                | Código       | Rol         |
+|-------------------------------------|--------------|-------------|
+| Lilian Amaraly Perla Arias           | SMSS180923   | Backend     |
+| Katia Marilin Santos Avelar          | SMSS011422   | Frontend    |
+| Flor Guadalupe Villatoro Vasquez     | SMSS125223   | Base de Datos|
 
-## 🛠️ Tecnologías Clave
 
-- **Framework**: Laravel 9
-- **Frontend**: Bootstrap 5, JavaScript
-- **Base de Datos**: MySQL
-- **Autenticación**: Laravel Sanctum
-- **Hosting**: Servidor UGB
+## 🎯 Objetivo del Proyecto
 
-## 🚀 Funcionalidades Principales
+"Encuéntrame UGB" es una plataforma web desarrollada en Laravel para la comunidad estudiantil de la UGB, diseñada para:
 
-```diff
-+ Nuevo en la versión final:
-+ • Botones de editar/eliminar condicionales
-+ • Visualización del autor de publicaciones
-+ • Sistema de notificaciones
-+ • FAQ completo
-+ • Diseño 100% responsive
-👥 Equipo de Desarrollo
-Nombre	Matrícula	Rol
-Lilian Amaraly Perla Arias	SMSS180923	Backend Developer
-Katia Marilin Santos Avelar	SMSS011422	Frontend Lead
-Flor Guadalupe Villatoro Vasquez	SMSS125223	DB Architect
+- Facilitar el reporte y recuperación de objetos perdidos en el campus.  
+- Ofrecer un sistema seguro, intuitivo y accesible desde cualquier dispositivo.  
+- Garantizar la gestión eficiente de publicaciones mediante permisos de usuario.
 
-📦 Instalación
-Clonar repositorio:
+---
 
-bash
-Copiar
-Editar
-git clone https://github.com/Lailenn/Lab-2.git
-Instalar dependencias:
+## 🚀 Funcionalidades Implementadas
 
-bash
-Copiar
-Editar
-composer install
-npm install && npm run dev
-Configurar entorno:
+### 🔹 Funciones Base (Consolidadas)
 
-bash
-Copiar
-Editar
-cp .env.example .env
-php artisan key:generate
-📄 Documentación
-Manual de Usuario
+- Autenticación con dominio `@ugb.edu.sv`  
+- CRUD completo para reportes de objetos perdidos  
+- Soporte para imágenes en cada publicación  
+- Dashboard personalizado con historial de reportes  
 
-Documentación Técnica
+### ✨ Nuevas Funcionalidades (Entrega Final)
 
-📜 Licencia
-Este proyecto está bajo licencia MIT.
+- Sistema de permisos avanzado:  
+  - Botones de Editar/Eliminar visibles solo para el autor de la publicación  
+  - Visualización del nombre del creador original para otros usuarios  
 
-<p align="center"> <sub>Cátedra: Programación Computacional IV | Catedrático: Willian Alexis Montes Girón</sub><br> <sub>Grupo B3 - Ingeniería en Sistemas y Redes Informáticos | UGB 2025</sub> </p> ```
+- Mejoras en UX/UI:  
+  - Diseño 100% responsive (adaptable a móviles y tablets)  
+  - Sección de FAQ integrada con preguntas frecuentes  
+  - Notificaciones en tiempo real para actualizaciones importantes  
+
+- Optimizaciones técnicas:  
+  - Código documentado y estructura limpia para futuras actualizaciones  
+  - Validación reforzada de formularios  
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+| Área            | Tecnologías                    |
+|-----------------|-------------------------------|
+| Frontend        | HTML5, CSS3, JavaScript, Bootstrap 5 |
+| Backend         | PHP, Laravel 9, Eloquent ORM  |
+| Base de Datos   | MySQL (Migraciones Laravel)   |
+| Autenticación   | Laravel Sanctum               |
+
+---
+
+## 📂 Estructura del Proyecto
+
+```bash
+├── app/               # Lógica de backend
+├── database/          # Migraciones y seeds
+├── public/            # Assets y archivos subidos
+├── resources/         # Vistas y componentes
+├── routes/            # Definición de endpoints
+└── tests/             # Pruebas automatizadas
